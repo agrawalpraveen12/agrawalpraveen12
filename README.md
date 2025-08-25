@@ -1,11 +1,7 @@
 <h1 align="center">🌟 Hey, I'm Praveen Agrawal! 🙏</h1>
 <h3 align="center">M.Sc. Data Science @ IIIT Lucknow | AI & ML Enthusiast | Future AI Engineer 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+@+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+RAG;Deep+Learning+%7C+MLOps+%7C+Big+Data;Passionate+Lifelong+Learner+📚" alt="Typing SVG" />
-</p>
 
----
 
 ### 🧠 About Me  
 
