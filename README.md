@@ -1,76 +1,94 @@
-<h1 align="center">☀️ Hey, I'm Praveen Agrawal! 🙏</h1>
-<h3 align="center">Aspiring Data Scientist | Passionate about AI, ML & Generative AI 🚀</h3>
+<h1 align="center">🌟 Hey, I'm Praveen Agrawal! 🙏</h1>
+<h3 align="center">M.Sc. Data Science @ IIIT Lucknow | AI & ML Enthusiast | Future AI Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=435&lines=M.Sc+(Data+Science)+@+IIIT+Lucknow;Lifelong+Learner+%F0%9F%93%9A;Exploring+Generative+AI+%7C+LangChain+%7C+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+@+IIIT+Lucknow;Generative+AI+%7C+LangChain+%7C+RAG;Deep+Learning+%7C+MLOps+%7C+Big+Data;Passionate+Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
 🎓 Pursuing **M.Sc. Data Science** from **IIIT Lucknow**  
-🤖 Exploring the world of **AI/ML, Generative AI, and LLMs**  
-🛠️ Hands-on with **MLflow, Docker, and FastAPI** for production-ready ML projects  
-📚 Currently diving deep into **LangChain, RAG pipelines, and Vector Databases**  
-🎯 My Goal? To **build intelligent, scalable AI systems** that create real impact  
+🤖 Exploring **Machine Learning, Deep Learning, and Generative AI**  
+🛠️ Experienced in **MLOps, Docker, MLflow, Power BI, and Cloud (AWS, Snowflake)**  
+📚 Currently diving into **LangChain, RAG pipelines, LLM Fine-tuning & Multimodal AI**  
+🎯 Goal: To **build scalable AI systems with real-world impact**  
 
 ---
 
-### ⚒️ Tech Stack
+### ⚡ Featured Projects  
+
+🔹 [Deepfake Detection using ResNet-18](https://github.com/agrawalpraveen12/Deepfake-Detection-of-images)  
+Built a classifier on 10K+ real/synthetic face images with **ResNet-18**, achieving high accuracy and AUC using **data augmentation, early stopping, LR scheduling**.  
+
+🔹 [Heart Disease Prediction](https://github.com/agrawalpraveen12/Heart-Disease-Prediction-)  
+Built predictive models (**Logistic Regression, Random Forest, SVM**) achieving **91.67% accuracy & 0.946 AUC**.  
+
+🔹 [Optimizing Revenue Leakage in Hospitality Sector](#) *(IIT Guwahati)*  
+End-to-end **analytics pipeline** with **Python + Power BI** for optimizing pricing & profitability using **star schema, feature engineering, and dashboards**.  
+
+---
+
+### ⚒️ Tech Toolbox  
 
 #### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=postgresql)
 ![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c)
 
-#### 📦 ML & DL  
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat&logo=keras)
+#### 🤖 AI/ML & DL  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0D1117?style=flat&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat&logo=keras)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0D1117?style=flat)
 
-#### 🧪 Data & Analytics  
+#### 🧪 Data & Visualization  
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0D1117?style=flat&logo=opencv)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=plotly)
+![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat&logo=plotly)
+![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=flat&logo=powerbi)
 
-#### 🤖 LLMs & Gen AI  
-![Transformers](https://img.shields.io/badge/-Transformers-0D1117?style=flat&logo=huggingface)
+#### 🔥 Generative AI & LLMs  
 ![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat)
+![HuggingFace](https://img.shields.io/badge/-Transformers-0D1117?style=flat&logo=huggingface)
 ![RAG](https://img.shields.io/badge/-RAG-0D1117?style=flat)
-![spaCy](https://img.shields.io/badge/-spaCy-0D1117?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-0D1117?style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0D1117?style=flat)
 
-#### 🌐 Web & Tools  
-![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)
+#### ☁️ Big Data & Cloud  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=flat&logo=apachespark)
+![Hadoop](https://img.shields.io/badge/-Hadoop-0D1117?style=flat&logo=apachehadoop)
+![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apachekafka)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazonaws)
+![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
+
+#### 🛠️ Dev Tools  
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=flat&logo=jupyter)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
 ![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat)
-
-#### 💾 Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql)
-
-#### 🧰 Others  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
-![Colab](https://img.shields.io/badge/-Colab-0D1117?style=flat&logo=googlecolab)
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visualstudiocode)
+![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)
 
 ---
 
-📌 **Currently Working On**
-- 🧠 Generative AI Applications using **LLMs, LangChain, and RAG pipelines**  
-- 🔍 Exploring **LangGraph, Knowledge Graph RAG, and Multimodal AI**  
-- ⚙️ Building **end-to-end projects** with MLflow, Docker, and Streamlit  
-- 🧪 Experimenting with **Prompt Engineering, LLM Fine-tuning, and Vector DBs**
+### 🏆 Certifications & Achievements  
+
+🏅 **IIT JAM 2024 (Mathematics): AIR 1080** out of 15,000 candidates  
+📜 [Complete DS + ML + DL + NLP Bootcamp (Udemy)](https://www.udemy.com/certificate/UC-50a8ee99-394c-4311-905a-b9261386b0a8/)  
+📜 [Generative AI Certification](https://certificate.givemycertificate.com/c/b5ed4be4-32f5-4a98-a931-609c9899f2de)  
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/praveen-agrawal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.kaggle.com/praveenagrawal"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle" /></a>
-  <a href="mailto:praveenagarwal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/praveenagrawal220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/agrawalpraveen12"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
+  <a href="https://www.kaggle.com/praveenagrawal220"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle" /></a>
+  <a href="mailto:agrawalpraveen86539@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
