@@ -90,5 +90,5 @@ End-to-end **analytics pipeline** with **Python + Power BI** for optimizing pric
   <a href="https://www.linkedin.com/in/praveenagrawal220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/agrawalpraveen12"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
   <a href="https://www.kaggle.com/praveenagrawal220"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle" /></a>
-  <a href="mailto:agrawalpraveen86539@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:agrawalpraveen9698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
