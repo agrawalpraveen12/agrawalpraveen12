@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hey, I'm Praveen Agrawal! 🙏</h1>
+<h1 align="center">Hey, I'm Praveen Agrawal! </h1>
 <h3 align="center">M.Sc. Data Science @ IIIT Lucknow | AI & ML Enthusiast | Future AI Engineer 🚀</h3>
 
 
