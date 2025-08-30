@@ -1,90 +1,89 @@
-<h1 align="center">Hey, I'm Praveen Agrawal! </h1>
-<h3 align="center">M.Sc. Data Science @ IIIT Lucknow | AI & ML Enthusiast | Future AI Engineer 🚀</h3>
+<div align="center">
 
+# Praveen Agrawal  
+**M.Sc. Data Science @ IIIT Lucknow | Data Science & AI/ML Enthusiast 🚀**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/praveenagrawal220)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/praveenagrawal220)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/agrawalpraveen12)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agrawalpraveen9698@gmail.com)
 
-### 🧠 About Me  
-
-🎓 Pursuing **M.Sc. Data Science** from **IIIT Lucknow**  
-🤖 Exploring **Machine Learning, Deep Learning, and Generative AI**  
-🛠️ Experienced in **MLOps, Docker, MLflow, Power BI, and Cloud (AWS, Snowflake)**  
-📚 Currently diving into **LangChain, RAG pipelines, LLM Fine-tuning & Multimodal AI**  
-🎯 Goal: To **build scalable AI systems with real-world impact**  
-
----
-
-### ⚡ Featured Projects  
-
-🔹 [Deepfake Detection using ResNet-18](https://github.com/agrawalpraveen12/Deepfake-Detection-of-images)  
-Built a classifier on 10K+ real/synthetic face images with **ResNet-18**, achieving high accuracy and AUC using **data augmentation, early stopping, LR scheduling**.  
-
-🔹 [Heart Disease Prediction](https://github.com/agrawalpraveen12/Heart-Disease-Prediction-)  
-Built predictive models (**Logistic Regression, Random Forest, SVM**) achieving **91.67% accuracy & 0.946 AUC**.  
-
-🔹 [Optimizing Revenue Leakage in Hospitality Sector](#) *(IIT Guwahati)*  
-End-to-end **analytics pipeline** with **Python + Power BI** for optimizing pricing & profitability using **star schema, feature engineering, and dashboards**.  
+</div>
 
 ---
 
-### ⚒️ Tech Toolbox  
+## 🧠 About Me  
 
-#### 💻 Languages  
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=postgresql)
-![C](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c)
-
-#### 🤖 AI/ML & DL  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-0D1117?style=flat&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-0D1117?style=flat&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-0D1117?style=flat&logo=keras)
-![XGBoost](https://img.shields.io/badge/-XGBoost-0D1117?style=flat)
-
-#### 🧪 Data & Visualization  
-![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas)
-![Seaborn](https://img.shields.io/badge/-Seaborn-0D1117?style=flat&logo=seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=plotly)
-![Plotly](https://img.shields.io/badge/-Plotly-0D1117?style=flat&logo=plotly)
-![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=flat&logo=powerbi)
-
-#### 🔥 Generative AI & LLMs  
-![LangChain](https://img.shields.io/badge/-LangChain-0D1117?style=flat)
-![HuggingFace](https://img.shields.io/badge/-Transformers-0D1117?style=flat&logo=huggingface)
-![RAG](https://img.shields.io/badge/-RAG-0D1117?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt--Engineering-0D1117?style=flat)
-![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-0D1117?style=flat)
-
-#### ☁️ Big Data & Cloud  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=flat&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/-Hadoop-0D1117?style=flat&logo=apachehadoop)
-![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apachekafka)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazonaws)
-![Snowflake](https://img.shields.io/badge/-Snowflake-0D1117?style=flat&logo=snowflake)
-
-#### 🛠️ Dev Tools  
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=flat&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=flat&logo=jupyter)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker)
-![MLflow](https://img.shields.io/badge/-MLflow-0D1117?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-0D1117?style=flat&logo=streamlit)
+🎓 Pursuing **M.Sc. in Data Science** at **IIIT Lucknow**  
+🤖 Passionate about **Data Science, Machine Learning, and Generative AI**  
+🛠️ Experienced with **LLM fine-tuning, RAG pipelines, LangChain, and MLOps**  
+📚 Continuously exploring **AI applications in real-world domains**  
+🎯 Focus → Building **robust AI/ML solutions with practical impact**  
 
 ---
 
-### 🏆 Certifications & Achievements  
+## ⚡ Technical Expertise  
+
+### 🤖 AI & Machine Learning
+- **Frameworks**: PyTorch, TensorFlow, Keras, scikit-learn, XGBoost  
+- **Generative AI / LLMs**: Hugging Face Transformers, PEFT, LoRA, LangChain, RAG, LlamaIndex  
+
+### 📊 Data Science & Visualization
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Plotly  
+- **Tools**: Power BI, Excel, Jupyter  
+
+### ☁️ Big Data & Cloud
+- **Ecosystem**: Apache Spark, Hadoop, Kafka  
+- **Cloud**: AWS, Snowflake  
+- **DevOps**: Docker, MLflow  
+
+### 💻 Programming
+- Python, SQL, C  
+
+### 🛠️ Development Tools
+- Git, GitHub, VS Code, Streamlit  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 [**Deepfake Detection using ResNet-18**](https://github.com/agrawalpraveen12/Deepfake-Detection-of-images)  
+Built classifier for **10K+ real/synthetic faces** using **ResNet-18**. Applied **augmentation, early stopping, LR scheduling** → achieved strong accuracy & AUC.  
+
+🔹 [**Heart Disease Prediction**](https://github.com/agrawalpraveen12/Heart-Disease-Prediction-)  
+Developed predictive models (**Logistic Regression, Random Forest, SVM**) with **91.67% accuracy & 0.946 AUC**.  
+
+🔹 [**Fine-Tuning LLM with LoRA (Phi-3-mini)**](https://github.com/agrawalpraveen12/Phi3_mini_Lora_Finetuning)  
+Implemented **parameter-efficient fine-tuning (LoRA)** on **Microsoft Phi-3-mini** using **Hugging Face + PEFT**. Optimized inference for **domain-specific tasks**.  
+
+---
+
+## 🏆 Certifications & Achievements  
 
 🏅 **IIT JAM 2024 (Mathematics): AIR 1080** out of 15,000 candidates  
 📜 [Complete DS + ML + DL + NLP Bootcamp (Udemy)](https://www.udemy.com/certificate/UC-50a8ee99-394c-4311-905a-b9261386b0a8/)  
-📜 [Generative AI Certification](https://certificate.givemycertificate.com/c/b5ed4be4-32f5-4a98-a931-609c9899f2de)  
+📜 [Generative AI Certification (IIT Guwahati)](https://certificate.givemycertificate.com/c/b5ed4be4-32f5-4a98-a931-609c9899f2de)  
 
 ---
 
-### 🌐 Let's Connect  
+## 📊 GitHub Statistics  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/praveenagrawal220"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/agrawalpraveen12"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github" /></a>
-  <a href="https://www.kaggle.com/praveenagrawal220"><img src="https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle" /></a>
-  <a href="mailto:agrawalpraveen9698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agrawalpraveen12&theme=nord&row=1&no-bg=true&no-frame=true" alt="GitHub Trophies">
+</div>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; padding: 20px;">
+  <img style="width: 56%;" src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak Stats">
+  <img style="width: 47%;" src="https://leetcode.card.workers.dev/praveenagrawal220?theme=dark&font=Kanit" alt="LeetCode Stats">
+</div>
+
+<p align="center">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=agrawalpraveen12&style=flat-square&color=blue" alt="Profile Views">
+</div>
