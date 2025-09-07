@@ -33,7 +33,7 @@ I enjoy working on **LLM fine-tuning (Phi-3 Mini with LoRA), RAG systems, and re
 ## 🧠 Tech I Work With  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=600&lines=Python+%7C+PyTorch+%7C+TensorFlow+%7C+scikit-learn;Hugging+Face+%7C+LangChain+%7C+LlamaIndex+%7C+RAG;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+Plotly;OpenCV+%7C+YOLOv8;SQL+%7C+MySQL+%7C+PostgreSQL;Streamlit+%7C+FastAPI+%7C+Flask;AWS+%7C+Apache+Spark+%7C+Hadoop+%7C+Kafka;Docker+%7C+MLflow+%7C+Git+%7C+VS+Code" alt="Skills Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=600&lines=Python+%7C+PyTorch+%7C+TensorFlow+%7C+scikit-learn;Hugging+Face+%7C+LangChain+%7C+LlamaIndex+%7C+RAG;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+Plotly;OpenCV+%7C+YOLOv8;SQL+%7C+MySQL+%7C+;Streamlit+%7C+FastAPI+%7C+Flask;AWS+%7C+Apache+Spark+%7C+Hadoop+%7C+Kafka;Docker+%7C+MLflow+%7C+Git+%7C+VS+Code" alt="Skills Animation"/>
 </p>
 
 ---
