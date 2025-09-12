@@ -57,13 +57,19 @@ I enjoy working on **LLM fine-tuning (Phi-3 Mini with LoRA), RAG systems, and re
 
 ---
 
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <!-- GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=highcontrast&hide_border=true&border_radius=5" alt="GitHub Streak Stats"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
+
