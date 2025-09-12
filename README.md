@@ -63,7 +63,7 @@ I enjoy working on **LLM fine-tuning (Phi-3 Mini with LoRA), RAG systems, and re
 <p align="center">
   <!-- GitHub Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Stats"/>
-  
+
   <!-- Top Languages -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="Top Languages"/>
 </p>
@@ -71,5 +71,16 @@ I enjoy working on **LLM fine-tuning (Phi-3 Mini with LoRA), RAG systems, and re
 <p align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=agrawalpraveen12&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/github/stars/agrawalpraveen12?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/agrawalpraveen12?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
 </p>
 
