@@ -116,26 +116,17 @@ My work focuses on **multi-agent orchestration, retrieval-grounded reasoning, an
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true"
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agrawalpraveen12&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agrawalpraveen12&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agrawalpraveen12&theme=github_dark" />
 </p>
 
----
 
 ## 🏆 Achievements  
 
