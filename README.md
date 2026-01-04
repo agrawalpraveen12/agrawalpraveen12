@@ -1,86 +1,137 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Praveen%20Agrawal&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&fontColor=ffffff" alt="Praveen Agrawal banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Praveen%20Agrawal&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&fontColor=ffffff" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;Data+Science+%26+AI%2FML+Enthusiast;Phi-3+Mini+Fine-Tuning+%7C+LoRA+%7C+RAG+Systems;Building+data-driven+solutions+with+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI+%7C+Computer+Vision;Agentic+AI+%7C+RAG+Systems+%7C+LLM+Fine-Tuning;Building+production-ready+AI+systems" />
 </p>
 
 ---
 
-<h3 align="center">
-  Hi, I'm Praveen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26" alt="wave"/>
-</h3>
+## 👋 Hi, I'm Praveen Agrawal  
+
+🎓 **M.Sc. Data Science** @ **IIIT Lucknow**  
+🤖 **AI / ML Engineer** | **Generative AI | Computer Vision | RAG Systems**
+
+I specialize in **production-ready AI systems**, including **Agentic RAG pipelines, LLM fine-tuning, and real-time computer vision applications**.  
+I enjoy solving **real-world problems** using **end-to-end ML & GenAI pipelines**.
+
+---
+
+## 🔗 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveenagrawal220"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:agrawalpraveen9698@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/agrawalpraveen12"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=agrawalpraveen12&style=flat-square&color=blue" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/praveenagrawal220">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:agrawalpraveen9698@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/agrawalpraveen12">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🧠 Core Skills  
 
-M.Sc. *Data Science* student at **IIIT Lucknow** with strong passion for **Machine Learning, Deep Learning, Generative AI, and Big Data**.  
-I enjoy working on **LLM fine-tuning (Phi-3 Mini with LoRA), RAG systems, and real-world AI apps** with Streamlit/FastAPI.  
+### 🔹 Programming & Data
+- Python, SQL  
+- NumPy, Pandas, Matplotlib, Seaborn  
 
----
+### 🔹 Machine Learning
+- Supervised & Unsupervised Learning  
+- XGBoost, LightGBM, Feature Engineering  
+- Model Evaluation, Scikit-learn  
 
-## 🧠 Tech I Work With  
+### 🔹 Deep Learning & Computer Vision
+- CNNs, Transfer Learning, ResNet  
+- YOLOv8, OpenCV  
+- TensorFlow, Keras, PyTorch  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=600&lines=Python+%7C+PyTorch+%7C+TensorFlow+%7C+scikit-learn;Hugging+Face+%7C+LangChain+%7C+LlamaIndex+%7C+RAG;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn+%7C+Plotly;OpenCV+%7C+YOLOv8;SQL+%7C+MySQL+%7C+;Streamlit+%7C+FastAPI+%7C+Flask;AWS+%7C+Apache+Spark+%7C+Hadoop+%7C+Kafka;Docker+%7C+MLflow+%7C+Git+%7C+VS+Code" alt="Skills Animation"/>
-</p>
+### 🔹 Generative AI & LLMs
+- RAG (Hybrid, Agentic)  
+- LangChain, LangGraph  
+- LLM Fine-Tuning (LoRA, PEFT)  
+- Hugging Face, Prompt Engineering  
 
----
-
-## 📂 Featured Projects  
-
-- **[Deepfake Detection (ResNet-18)](https://github.com/agrawalpraveen12/Deepfake-Detection-of-images)** – CNN model trained on detecting synthetic faces.  
-- **[PPE Detection System (YOLOv8)](https://github.com/agrawalpraveen12/PPE-Detection-System-Using-YOLOv8)** – Safety gear detection app built with YOLOv8 + Streamlit.  
-- **[Phi-3 Mini Fine-Tuning with LoRA](https://github.com/agrawalpraveen12/Phi3_mini_Lora_Finetuning)** – LoRA-based PEFT fine-tuning on Microsoft’s Phi-3 Mini.    
-- **[SQL Business Insights](https://github.com/agrawalpraveen12/SQL-Business-Analytics)** – SQL-driven analytics on company datasets.  
-
----
-
-## 🏆 Certifications & Achievements  
-
-- **IIT JAM 2024 — AIR 1080 (~92.8 Percentile, Top 7%)**  
-- **Hospitality Revenue Optimization (IIT Guwahati)** — Certificate in *Optimizing Revenue Leakages and Profitability in the Hospitality Sector*.  
-- AWS: *Introduction to Generative AI*  
-- Python (Basic) — HackerRank  
-- Udemy: *Complete Data Science, ML, DL, NLP Bootcamp*  
+### 🔹 Backend & Deployment
+- FastAPI, Streamlit  
+- Docker, Git, GitHub  
+- AWS (S3, EC2), MLflow  
 
 ---
 
+## 🚀 Featured Projects  
+
+### 🔹 Production-Ready Agentic Hybrid RAG System
+**Tech:** Python, FastAPI, Groq (LLaMA-3.3-70B), LangChain, LangGraph, ChromaDB  
+
+- Built **multi-agent RAG system** with persistent memory & real-time streaming  
+- Hybrid retrieval (top-5 contexts) with **92% retrieval accuracy**  
+- Reduced hallucinations by **40%** using grounded verification  
+
+🔗 *Private / Demo-based Project*
+
+---
+
+### 🔹 PPE Detection System (YOLOv8)
+**Tech:** Python, YOLOv8, OpenCV, Streamlit  
+
+- Real-time detection of **helmet, mask, gloves, vest, goggles**  
+- Trained on **6K+ images**  
+- Achieved **mAP@50: 92.4%**, **Precision: 91.2%**  
+
+🔗 https://github.com/agrawalpraveen12/PPE-Detection-System-Using-YOLOv8
+
+---
+
+### 🔹 Deepfake Image Detection (ResNet-18)
+**Tech:** TensorFlow, Keras, OpenCV, Streamlit  
+
+- Trained on **10K facial images**  
+- **Accuracy: 94.2% | Precision: 92% | AUC: 0.96**  
+- Deployed real-time prediction app  
+
+🔗 https://github.com/agrawalpraveen12/Deepfake-Detection-of-images
+
+---
+
+### 🔹 SpanBERT Fine-Tuning for Science & Data Science QA
+**Tech:** PyTorch, Transformers, LoRA, Hugging Face  
+
+- Fine-tuned SpanBERT using **LoRA (0.27% params updated)**  
+- Reduced validation loss by **21%**  
+- Achieved **F1: 68.6% | EM: 59.9%**  
+- Deployed Streamlit-based QA assistant  
+
+🔗 *Repo available on request*
+
+---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Stats"/>
-
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=agrawalpraveen12&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
+---
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/github/stars/agrawalpraveen12?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-  <img src="https://img.shields.io/github/followers/agrawalpraveen12?style=for-the-badge&logo=github&color=blue" alt="Followers"/>
-</p>
+## 🏆 Achievements  
 
+- **IIT JAM 2024 — AIR 1080 (Top 7%)**  
+- IndiaAI (IIT Roorkee): Responsible & Trustworthy AI  
+- IIT Guwahati: Hospitality Revenue Optimization  
+- ISRO Bharatiya Antariksh Hackathon 2025  
+
+---
+
+⭐ *Always open to AI/ML, GenAI, and Computer Vision opportunities*
