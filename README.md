@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI+%7C+Computer+Vision;Agentic+AI+%7C+RAG+Systems+%7C+LLM+Fine-Tuning;Building+production-ready+AI+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=M.Sc.+Data+Science+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG;LLM+Fine-Tuning+%7C+Production+AI+Systems" />
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ## 👋 Hi, I'm Praveen Agrawal  
 
 🎓 **M.Sc. Data Science** @ **IIIT Lucknow**  
-🤖 **AI / ML Engineer** | **Generative AI | Computer Vision | RAG Systems**
+🤖 **AI / ML Engineer** focused on **Agentic AI, LLM Systems, and RAG Pipelines**
 
-I specialize in **production-ready AI systems**, including **Agentic RAG pipelines, LLM fine-tuning, and real-time computer vision applications**.  
-I enjoy solving **real-world problems** using **end-to-end ML & GenAI pipelines**.
+I build **production-ready AI systems** using **LangChain, LangGraph, FastAPI, and LLM fine-tuning (LoRA)**.  
+My work focuses on **multi-agent orchestration, retrieval-grounded reasoning, and scalable AI backends**.
 
 ---
 
@@ -36,102 +36,114 @@ I enjoy solving **real-world problems** using **end-to-end ML & GenAI pipelines*
 
 ---
 
-## 🧠 Core Skills  
+## 🧠 Technical Expertise  
 
 ### 🔹 Programming & Data
 - Python, SQL  
 - NumPy, Pandas, Matplotlib, Seaborn  
 
-### 🔹 Machine Learning
+### 🔹 Machine Learning & Deep Learning
 - Supervised & Unsupervised Learning  
 - XGBoost, LightGBM, Feature Engineering  
-- Model Evaluation, Scikit-learn  
+- Neural Networks, Transfer Learning  
+- TensorFlow, PyTorch, Scikit-learn  
 
-### 🔹 Deep Learning & Computer Vision
-- CNNs, Transfer Learning, ResNet  
-- YOLOv8, OpenCV  
-- TensorFlow, Keras, PyTorch  
-
-### 🔹 Generative AI & LLMs
-- RAG (Hybrid, Agentic)  
+### 🔹 Generative AI & Agentic Systems
+- Agentic AI Architecture  
 - LangChain, LangGraph  
+- Retrieval Augmented Generation (RAG)  
+- Hybrid RAG (Dense + Keyword)  
 - LLM Fine-Tuning (LoRA, PEFT)  
-- Hugging Face, Prompt Engineering  
+- Prompt Engineering & Tool Calling  
 
-### 🔹 Backend & Deployment
+### 🔹 Backend, MLOps & Cloud
 - FastAPI, Streamlit  
 - Docker, Git, GitHub  
-- AWS (S3, EC2), MLflow  
+- AWS (S3, EC2)  
+- MLflow, DVC  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🔹 Production-Ready Agentic Hybrid RAG System
-**Tech:** Python, FastAPI, Groq (LLaMA-3.3-70B), LangChain, LangGraph, ChromaDB  
+**Tech:** Python, FastAPI, Groq (LLaMA-3.3-70B), LangChain, LangGraph, ChromaDB, SQLite  
 
-- Built **multi-agent RAG system** with persistent memory & real-time streaming  
-- Hybrid retrieval (top-5 contexts) with **92% retrieval accuracy**  
-- Reduced hallucinations by **40%** using grounded verification  
+- Designed **multi-agent AI system** with routing across **Math, Memory, and Web Search tools**
+- Implemented **LangGraph state machine** with conditional execution
+- Hybrid retrieval (top-5 contexts) achieving **92% retrieval accuracy**
+- Reduced hallucinations by **40%** via grounded context verification
+- Enabled **real-time streaming & persistent conversational memory**
 
-🔗 *Private / Demo-based Project*
+🔗 *Private / Demo-based project*
 
 ---
 
-### 🔹 PPE Detection System (YOLOv8)
+### 🔹 PPE Compliance Detection System
 **Tech:** Python, YOLOv8, OpenCV, Streamlit  
 
-- Real-time detection of **helmet, mask, gloves, vest, goggles**  
-- Trained on **6K+ images**  
-- Achieved **mAP@50: 92.4%**, **Precision: 91.2%**  
+- Built **real-time AI compliance system** for industrial safety monitoring
+- Detects **helmet, mask, gloves, vest, goggles**
+- Trained on **6K+ images**
+- Achieved **mAP@50: 92.4% | Precision: 91.2%**
+- Deployed interactive Streamlit interface for live inference
 
 🔗 https://github.com/agrawalpraveen12/PPE-Detection-System-Using-YOLOv8
 
 ---
 
-### 🔹 Deepfake Image Detection (ResNet-18)
-**Tech:** TensorFlow, Keras, OpenCV, Streamlit  
+### 🔹 Deepfake Image Detection System
+**Tech:** Python, TensorFlow, ResNet-18, Streamlit  
 
-- Trained on **10K facial images**  
-- **Accuracy: 94.2% | Precision: 92% | AUC: 0.96**  
-- Deployed real-time prediction app  
+- Developed AI system to identify **synthetic vs real facial images**
+- Trained on **10K images** with augmentation and regularization
+- Achieved **94.2% accuracy | AUC: 0.96**
+- Delivered as a **real-time inference web app**
 
 🔗 https://github.com/agrawalpraveen12/Deepfake-Detection-of-images
 
 ---
 
 ### 🔹 SpanBERT Fine-Tuning for Science & Data Science QA
-**Tech:** PyTorch, Transformers, LoRA, Hugging Face  
+**Tech:** PyTorch, Hugging Face, LoRA, PEFT, Streamlit  
 
-- Fine-tuned SpanBERT using **LoRA (0.27% params updated)**  
-- Reduced validation loss by **21%**  
-- Achieved **F1: 68.6% | EM: 59.9%**  
-- Deployed Streamlit-based QA assistant  
+- Fine-tuned **SpanBERT (SQuADv2)** using **LoRA (0.27% trainable params)**
+- Reduced validation loss by **21%**
+- Achieved **F1: 68.6% | EM: 59.9%**
+- Built **domain-specific QA assistant** with confidence scoring
 
-🔗 *Repo available on request*
+🔗 *Repository available on request*
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=vision-friendly-dark&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=vision-friendly-dark&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=agrawalpraveen12&theme=vision-friendly-dark&hide_border=true"
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements  
 
-- **IIT JAM 2024 — AIR 1080 (Top 7%)**  
+- **IIT JAM 2024 — AIR 1080 (Top 7%)**
 - IndiaAI (IIT Roorkee): Responsible & Trustworthy AI  
-- IIT Guwahati: Hospitality Revenue Optimization  
+- IIT Guwahati: Revenue Optimization Summer Project  
 - ISRO Bharatiya Antariksh Hackathon 2025  
 
 ---
 
-⭐ *Always open to AI/ML, GenAI, and Computer Vision opportunities*
+⭐ *Open to AI/ML, Generative AI, and Agentic AI opportunities*
