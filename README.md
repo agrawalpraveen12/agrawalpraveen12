@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Praveen%20Agrawal&fontAlign=50&fontAlignY=38&color=0:020617,100:2a5298&fontColor=ffbd39&animation=fadeIn&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLM%20Fine-Tuning&descAlign=50&descAlignY=58&descSize=16&descColor=c9d1d9" />
 </p>
 
-<!-- Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=880&color=FFBD39&lines=AI+Engineer+%40+Ooumph;Agentic+AI+%7C+LangGraph+%7C+Multi-Agent+Systems;RAG+Pipelines+%7C+LLM+Fine-Tuning+(LoRA);M.Sc.+Data+Science+%40+IIIT+Lucknow" />
 </p>
@@ -57,15 +56,6 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
 
 ## 🚀 Selected Projects
 
-<p align="center">
-  <a href="https://github.com/agrawalpraveen12/Voyager-Agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agrawalpraveen12&repo=Voyager-Agents&theme=github_dark&bg_color=020617&title_color=ffbd39&hide_border=true" />
-  </a>
-  <a href="https://github.com/agrawalpraveen12/Nova-Agent-Orchestrator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=agrawalpraveen12&repo=Nova-Agent-Orchestrator&theme=github_dark&bg_color=020617&title_color=ffbd39&hide_border=true" />
-  </a>
-</p>
-
 | Project | Description | Link |
 |---------|-------------|------|
 | 🌍 **Voyager Agents** | LangGraph multi-agent travel planner · LLaMA-3.3-70B on Groq · Next.js + FastAPI · SSE streaming | [GitHub](https://github.com/agrawalpraveen12/Voyager-Agents) |
@@ -82,13 +72,11 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=github_dark&bg_color=020617&title_color=ffbd39&icon_color=ffbd39&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=github_dark&bg_color=020617&title_color=ffbd39&text_color=c9d1d9&hide_border=true&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalpraveen12&theme=dark&background=020617&border=ffbd3933&ring=ffbd39&fire=ffbd39&currStreakLabel=ffbd39&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalpraveen12&theme=dark&background=020617&border=ffbd3933&ring=ffbd39&fire=ffbd39&currStreakLabel=ffbd39&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrawalpraveen12&bg_color=020617&color=c9d1d9&line=ffbd39&point=ffffff&area=true&area_color=ffbd39&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 <p align="center">
@@ -105,14 +93,6 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agrawalpraveen12/agrawalpraveen12/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/agrawalpraveen12/agrawalpraveen12/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrawalpraveen12&bg_color=020617&color=c9d1d9&line=ffbd39&point=ffffff&area=true&area_color=ffbd39&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days" />
 </p>
 
 ---
