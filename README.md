@@ -24,7 +24,7 @@
 
 ## 👋 Hi, I'm Praveen Agrawal
 
-🤖 **AI Engineer @ Ooumph** — shipping production-grade GenAI systems
+🤖 **AI Engineer @ Ooumph** — shipping production-grade GenAI systems  
 🎓 **M.Sc. Data Science** @ **IIIT Lucknow** · IIT JAM 2024 **AIR 1080**
 
 I build **production-ready agentic AI systems** — multi-agent orchestration with **LangGraph**, hybrid **RAG pipelines**, **LoRA fine-tuning**, and scalable **FastAPI** backends. My focus: grounded reasoning, real-time streaming, and AI that actually ships.
@@ -82,8 +82,13 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=github_dark&bg_color=020617&title_color=ffbd39&icon_color=ffbd39&text_color=c9d1d9&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=github_dark&bg_color=020617&title_color=ffbd39&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8" height="180" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=agrawalpraveen12&show_icons=true&theme=github_dark&bg_color=020617&title_color=ffbd39&icon_color=ffbd39&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalpraveen12&layout=compact&theme=github_dark&bg_color=020617&title_color=ffbd39&text_color=c9d1d9&hide_border=true&langs_count=8&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalpraveen12&theme=dark&background=020617&border=ffbd3933&ring=ffbd39&fire=ffbd39&currStreakLabel=ffbd39&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 </p>
 
 <p align="center">
@@ -105,10 +110,6 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
 ---
 
 ## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalpraveen12&theme=dark&background=020617&border=ffbd3933&ring=ffbd39&fire=ffbd39&currStreakLabel=ffbd39&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agrawalpraveen12&bg_color=020617&color=c9d1d9&line=ffbd39&point=ffffff&area=true&area_color=ffbd39&hide_border=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2031%20Days" />
