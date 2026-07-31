@@ -80,7 +80,13 @@ I build **production-ready agentic AI systems** — multi-agent orchestration wi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agrawalpraveen12&theme=darkhub&no-frame=true&margin-w=6&row=1&column=7" />
+  <img src="https://img.shields.io/badge/Repos-33-ffbd39?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-12-ffbd39?style=for-the-badge&logo=star&logoColor=white&labelColor=020617" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PRs%20Merged-37%2B-22c55e?style=for-the-badge&logo=git&logoColor=white&labelColor=020617" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Commits-1000%2B-2a5298?style=for-the-badge&logo=git&logoColor=white&labelColor=020617" />
 </p>
 
 ---
